@@ -1,0 +1,32 @@
+Trabalho 2º semestre - Programação e Direito
+Aluna: Sarah Teixeira 
+
+Tópicos escolhidos: Inteligência artificial, banco de dados, nuvem, algoritmo e jurimetria. 
+
+
+1. INTELIGÊNCIA ARTIFICIAL: 
+https://tecnoblog.net/responde/o-que-e-inteligencia-artificial/amp
+
+Com a evolução tecnológica que torna possível que sistemas possam simular a inteligência da raça humana, capazes de armazenar dados e algoritmos. 
+
+2. BANCO DE DADOS:
+https://rockcontent.com/br/blog/banco-de-dados/#:~:text=O%20banco%20de%20dados%20%C3%A9,para%20seguran%C3%A7a%20ou%20confer%C3%AAncia%20futura.
+
+O banco de dados se caracteriza pelo armazenamento de informações sob um poder de seguro e capaz de manter os dados organizados. 
+
+
+3. NUVEM: 
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/
+
+A nuvem é caracterizada como rede de diversos servidores ao redor do mundo que funciona como um único ecossistema, responsável por armazenar todo tipo de dado, como aplicativos, vídeos, software, mídias sociais, entre outras funções. 
+
+
+4. ALGORITMO: 
+https://coodesh.com/blog/dicionario/o-que-e-algoritmo/
+
+Algoritmo é uma sequência de instruções sistemáticas que decide o que priorizar na web. A partir disso vem a expressão: algoritmo do Google, algoritmo do Instagram, entre outros. 
+
+5. JURIMETRIA: 
+https://www.projuris.com.br/blog/jurimetria/?amp
+
+Jurimetria é a estatística aplicada ao direito, buscando trazer uma análise simples e direta, que vem sendo utilizada em conjunto com softwares jurídicos, afim de tentar prever possíveis resultados, oferecendo probabilidades e valores envolvidos nestas análises. 

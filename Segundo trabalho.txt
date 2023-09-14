@@ -1,0 +1,18 @@
+Trab 2 - programação 
+
+
+Com base na notícia “MPF investiga se algoritmo do INSS nega aposentadoria sem análise de mérito” em que diz a respeito de uma falha que ocorreu devido ao sistema automatizado, que não analisou caso por caso de modo adequado, o que de fato trouxe prejuízo para os beneficiários que estavam na fila. 
+
+
+A Inteligência Artificial tem a autonomia de analisar grandes quantidades de dados, sendo capaz de tomar decisões se baseando em probabilidades por meio de algoritmos. Uma vez que sim, a análise de créditos (que se baseia nas condições financeiras de um cliente) pode utilizar algoritmos. 
+
+Sim, a o crédito negado precisa ser justificado ao servidor, como assegurado no Código de defesa do consumidor, em que o mesmo precisa ser informado se houver uma recusa ao seu pedido. 
+
+
+Referências: 
+
+https://www.em.com.br/app/noticia/economia/2023/03/06/internas_economia,1465264/aposentadoria-mpf-mg-investiga-se-inss-negou-pedido-de-forma-automatizada.shtml
+
+https://pt.linkedin.com/pulse/como-intelig%C3%AAncia-artificial-pode-melhorar-gest%C3%A3o-de-cr%C3%A9dito-lobo
+
+https://www.proteste.org.br/dinheiro/emprestimo-consorcio-e-financiamento/noticia/teve-o-credito-negado-voce-deve-ser-informado-sobre-o-motivo#:~:text=As%20empresas%20na%20maioria%20dos,Código%20de%20Defesa%20do%20Consumidor. 

@@ -1,0 +1,23 @@
+Trab 3 - programação 
+
+
+A LGPD (Lei Geral de Proteção de Dados) é responsável por assegurar que todas as organizações que descumprirem os requisitos da lei estarão sujeitas a penalidades administrativas. Sua relação está  diretamente ligada aos Data Centers, em que o mesmo se caracteriza como um local físico responsável por armazenar e gerenciar sistemas, e a LGPD por sua vez, responsável por garantir a segurança dessas informações. 
+
+
+Os formatos de arquivos proprietários são gerenciados por interesses privados, em que o usuário corre o risco de perder o acesso ao material contido no software, uma vez que outros dispositivos não tem acesso. 
+
+Já os formatos abertos são arquivos de interesse e acesso público, com seu principal objetivo garantir seu acesso durante longo prazo de tempo, livre de qualquer restrição legal, com um segundo intuito que é incentivar a concorrência, para que não permita apenas um único fabricante tenha o controle sobre um formato proprietário. 
+
+
+Embasado na LGPD, a área de setor público não tem mais a autonomia de fazer o uso do interesse legítimo como a base legal. Suas implicações são principalmente o acesso indevido ao acesso a dados pessoais de terceiros, ou como a alteração de dados e um possível vazamento de informações. 
+
+
+ Referências: 
+
+https://odatacolocation.com/blog/lgpd-para-datacenters/
+
+https://4infra.com.br/a-importancia-do-data-center-para-sua-empresa/#:~:text=No%20Data%20Center%20são%20desenvolvidas,o%20bom%20funcionamento%20da%20empresa.
+
+https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/amp/
+
+LGPD: Proteção de dados e os principais riscos de segurança para ...
